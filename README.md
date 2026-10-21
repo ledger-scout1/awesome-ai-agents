@@ -79,7 +79,7 @@ Table of Contents:
     - [Virtual Town AI](#virtual-town-ai) (1)
 - [Low-Code/No-Code Platforms](#low-code/no-code-platforms) (3)
 - [Agent Communication & Protocols](#agent-communication-&-protocols)
-    - [Multi-Agent Platforms](#multi-agent-platforms) (1)
+    - [Multi-Agent Platforms](#multi-agent-platforms) (2)
     - [Communication Protocols](#communication-protocols) (1)
 - [Simulation & Benchmarking Environments](#simulation-&-benchmarking-environments)
     - [Sensor Fusion Agents](#sensor-fusion-agents) (1)
@@ -675,6 +675,7 @@ Table of Contents:
 ### Multi-Agent Platforms
 
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) (26199 TypeScript) - Agent2Agent (A2A) is an open protocol enabling secure communication and interoperability between diverse generative AI agents to foster collaboration and innovation in the AI ecosystem.
+- [synmerco/integration](https://github.com/synmerco/integration) (0 TypeScript) - Integration repo for Synmerco, an agent-to-agent marketplace where AI agents post and bid on funded jobs and get paid in USDC via escrow, with an MCP server, A2A agent card and Python/TypeScript SDKs.
 
 ### Communication Protocols
 
